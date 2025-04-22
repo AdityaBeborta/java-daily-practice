@@ -1,0 +1,21 @@
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+/bin/
+/out/
+/target/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+# IntelliJ IDEA
+.idea/
+*.iml
